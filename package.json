@@ -6,11 +6,11 @@
     "bower": "^1.8.2",
     "eslint": "^4.9.0",
     "http-server": "^0.10.0",
-    "jasmine-core": "^2.8.0",
+    "jasmine-core": "^2.99.1",
     "karma": "^1.7.1",
     "karma-chrome-launcher": "^2.2.0",
-    "karma-firefox-launcher": "^1.0.1",
-    "karma-jasmine": "^1.1.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-jasmine": "^1.1.1",
     "karma-junit-reporter": "^1.2.0"
   },
   "scripts": {
